@@ -8,6 +8,7 @@ public class Simpleprogram {
 		System.out.println("California");
 		System.out.println("Pondy");
 		System.out.println("Vanakam");
+		System.out.println("Prt");
 	}
 
 }
